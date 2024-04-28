@@ -1,0 +1,21 @@
+B1: Vào folder SDK
+-SDK	-aboot
+	-sc_app
+	-sc_config
+Tree của folder như này...
+vào thanh cmd
+Gõ build_16M.bat A7672S_FASE clean
+để clean đi files trong thư mục target
+Tiếp theo
+	build_16M.bat A7672S_FASE all
+để build code 
+Note: Trong thư mục sc_app có Makefile chứa thoong tin về file mình sẽ build
+
+"PACKAGE_DIRS:= \
+  phase_detector_slave\
+  third_lib"
+Ví dụ như trên, thì chỉ cần sửa name của folder code thay cho phase_detector_slave bang 1 folder code khác mà mình muốn build, ví dụ như bms_reader or phase_detector_slave01... đều được
+
+
+
+	
