@@ -2,7 +2,7 @@
 *History/
 *.SchDocPreview
 *PrjPCBStructurePreview
-*.rar
+#*.rar
 *.log
 *.Dat
 *.PrjPCBStructure
