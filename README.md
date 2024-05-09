@@ -28,7 +28,7 @@
 
 ## About the Project
 
-The project aims at design
+The project aims at design a system integrating GNSS and Cellular communication to measure and analyze the difference in the Three-phase Power System. This functionality is crucial for building a smart grid infrastructure capable of optimizing power distribution, detecting faults, and improving grid stability and efficiency.
 
 <pre>
 MQTT    _server: 38.105.209.36:1883
