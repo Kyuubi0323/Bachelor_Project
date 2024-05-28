@@ -1,0 +1,9 @@
+lwgps.c:79:1:prv_parse_number	9
+lwgps.c:102:1:prv_parse_float_number	10
+lwgps.c:138:1:prv_parse_lat_long	1
+lwgps.c:155:1:prv_parse_term	15
+lwgps.c:384:1:prv_check_crc	13
+lwgps.c:400:1:prv_copy_from_tmp_memory	2
+lwgps.c:464:1:lwgps_init	1
+lwgps.c:482:1:lwgps_process	10
+lwgps.c:609:1:lwgps_to_speed	16

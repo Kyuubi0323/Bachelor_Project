@@ -1,5 +1,0 @@
-datetime.c:5:17:date2days	8
-datetime.c:24:13:time2long	1
-datetime.c:29:6:epoch2dt	7
-datetime.c:64:10:dt2epoch	1
-datetime.c:71:6:dayOfWeek	2

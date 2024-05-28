@@ -1,0 +1,12 @@
+fifo.c:13:12:FifoFull	2
+fifo.c:21:12:FifoEmpty	2
+fifo.c:29:13:FifoPut	1
+fifo.c:36:13:FifoGet	1
+fifo.c:43:10:FifoInit	2
+fifo.c:53:6:FifoDeInit	2
+fifo.c:57:5:FifoPutc	2
+fifo.c:65:5:FifoGetc	2
+fifo.c:72:5:FifoPuts	3
+fifo.c:79:5:FifoGets	4
+fifo.c:90:6:FifoReset	1
+fifo.c:95:5:FifoAvailable	1

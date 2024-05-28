@@ -1,2 +1,0 @@
-interrupt.c:27:6:HAL_TIM_PeriodElapsedCallback	2
-interrupt.c:39:6:HAL_UART_RxCpltCallback	15

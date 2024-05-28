@@ -1,4 +1,0 @@
-app_uart.c:13:16:Cal_CheckSumU8	2
-app_uart.c:23:6:sendData	1
-app_uart.c:39:6:testSendData	1
-app_uart.c:46:6:initAppUart	1

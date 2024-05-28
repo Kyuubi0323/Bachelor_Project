@@ -1,4 +1,0 @@
-stimer.c:17:6:startTimer	6
-stimer.c:35:6:cancelTimer	3
-stimer.c:45:6:isTimerRunning	3
-stimer.c:54:6:processTimerEvents	4

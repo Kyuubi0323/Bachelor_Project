@@ -1,0 +1,6 @@
+app_measure.c:52:6:HAL_GPIO_EXTI_Callback	7
+app_measure.c:71:13:UartReInit	2
+app_measure.c:82:10:findBaudRate	5
+app_measure.c:99:6:processMeasure	8
+app_measure.c:148:6:gnssInit	3
+app_measure.c:168:6:appMeasureInit	1
